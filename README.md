@@ -1,4 +1,4 @@
-# ENGL 55.23/FILM 48.06 Research Paper - Winter 2023
+# ENGL 55.23/FILM 48.07 Research Paper - Winter 2023
 
 ## Description
 This repository contains Python scripts for scraping, parsing, and analyzing textual data from both Twitter and Fizz posts discussing Dartmouth. The scripts utilize the `gensim` and `nltk` packages for text analysis and also utilize MALLET's Java-based comprehensive text analysis capabilities.
